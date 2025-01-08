@@ -1,9 +1,5 @@
 Dosen PeTIK :
-<<<<<<< HEAD
-1. Kak Indra
-=======
 1. Zaki MUllet
->>>>>>> af5eb94 (Mengubah coach indra menjadi zamul)
 2. Badu
 3. Ngab sukma
 4. BG Teza Cool
